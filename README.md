@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+### 💻 Software Systems @SFU
+### 🧠 Minor in Psychology
+### 🚀 Co-Founder @Medpack-Technologies
+
+---
+
+Welcome to my profile! I'm focused on the intersection of systems and human behavior.
 
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
