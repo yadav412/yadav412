@@ -14,6 +14,14 @@ Welcome to my profile! I'm focused on the intersection of systems and human beha
 -🏆 Building fun projects in Hackathons  
 
 
+### Hackathons 
+- GameJam 2025  
+- CSSS Fallhacks 2025  
+- Stormhacks 2026 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+- JourneyHacks 2026
+- Stormforge 2026 
+
+
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
