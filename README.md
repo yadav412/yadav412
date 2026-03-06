@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi, I'm Yadav!👋
 
 ### 💻 Software Systems @SFU
 ### 🧠 Minor in Psychology
@@ -7,6 +7,12 @@
 ---
 
 Welcome to my profile! I'm focused on the intersection of systems and human behavior.
+
+### What I am currently working on:
+❤️‍🩹 Developing a MVP for sessional therapy agent 
+👔 Developing a Hiring Platform for SFU clubs
+🏆 Building fun projects in Hackathons
+
 
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
