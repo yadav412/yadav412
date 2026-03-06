@@ -9,9 +9,9 @@
 Welcome to my profile! I'm focused on the intersection of systems and human behavior.
 
 ### What I am currently working on:
--❤️‍🩹 Developing a MVP for sessional therapy agent 
--👔 Developing a Hiring Platform for SFU clubs
--🏆 Building fun projects in Hackathons
+-❤️‍🩹 Developing a MVP for sessional therapy agent  
+-👔 Developing a Hiring Platform for SFU clubs  
+-🏆 Building fun projects in Hackathons  
 
 
 <!--
