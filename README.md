@@ -12,12 +12,18 @@ Welcome to my profile! I am focused on HCI, technical product management and dev
 I am familar with ML and ML is familar with me. We nod politely at each other in the hallways. 😅
 
 💻 Software Systems @SFU  
-🧠 Minor in Psychology  
+🧠 Extended Minor in Psychology @SFU
 🚀 Co-Founder @Medpack-Technologies  
 
 
 <a align ="center" href="https://www.linkedin.com/in/yadav-singh-39b687236/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a align ="center" href="https://dev.to/yadav_singh_8b2d910255664">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a align ="center" href="https://www.linkedin.com/in/yadav-singh-39b687236/">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
 </a>
 
 ### What I am currently working on:  
