@@ -22,7 +22,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 <a align ="center" href="https://dev.to/yadav_singh_8b2d910255664">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
-<a align ="center" href="https://www.linkedin.com/in/yadav-singh-39b687236/">
+<a align ="center" href="https://devpost.com/yadav412?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
   <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
 </a>
 
