@@ -8,8 +8,8 @@
 ### About me  
 
 
-
-Welcome to my profile! I'm focused on the intersection of systems and human behavior. Working on various projects and research that fit within this intersection. 
+Welcome to my profile! I am focused on HCI, technical product management and devops engineering.
+I am familar with ML and ML is familar with me. We nod politely at each other in the hallways. 😅
 
 💻 Software Systems @SFU  
 🧠 Minor in Psychology  
