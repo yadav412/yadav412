@@ -35,10 +35,10 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 
 ### Hackathons 
 - GameJam 2025  
-- CSSS Fallhacks 2025  
-- Stormhacks 2026   
-- JourneyHacks 2026
-- Stormforge 2026 
+- [CSSS Fallhacks 2025](f1stocks.netlify.app/index.html)
+- [Stormhacks 2025](stormhacks-2025-uk0m.onrender.com/) 
+- [JourneyHacks 2026](greyday.netlify.app/)
+- [Stormforge 2026](https://github.com/yadav412/stormforge_2026)
 ---
 ### Tech Stack  
 <p align="left">
