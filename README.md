@@ -30,7 +30,8 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 ### What I am currently working on:  
 - ❤️‍🩹 Developing a MVP for sessional therapy agent  
 - 👔 Developing a Hiring Platform for SFU clubs  
-- 🏆 Building fun projects in Hackathons  
+- 🏆 Building fun projects in Hackathons
+- 💬 Curating a place to teach someone CS essentials in one place
 ---
 
 ### Hackathons 
