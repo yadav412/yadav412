@@ -34,12 +34,17 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 - 💬 Curating a place to teach someone CS essentials in one place
 ---
 
-### Hackathons 
-- GameJam 2025  
-- [CSSS Fallhacks 2025](f1stocks.netlify.app/index.html)
-- [Stormhacks 2025](stormhacks-2025-uk0m.onrender.com/) 
-- [JourneyHacks 2026](greyday.netlify.app/)
-- [Stormforge 2026](https://github.com/yadav412/stormforge_2026)
+
+### Hackathons
+
+| Year | Hackathon | Project / Link |
+|------|-----------|----------------|
+| 2025 | GameJam | — |
+| 2025 | CSSS Fallhacks | [F1 Stock Match](https://f1stocks.netlify.app/index.html) |
+| 2025 | Stormhacks | [Stormhacks 2025](https://stormhacks-2025-uk0m.onrender.com/) |
+| 2026 | JourneyHacks | [Grey Day](https://greyday.netlify.app/) |
+| 2026 | Stormforge | [Stormforge 2026](https://github.com/yadav412/stormforge_2026) |
+| 2026 | Gemini Writing Challenge | [Gemini Challenge](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47) |
 ---
 ### Tech Stack  
 <p align="left">
