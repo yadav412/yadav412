@@ -39,7 +39,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 
 | Year | Hackathon | Project / Link |
 |------|-----------|----------------|
-| 2025 | GameJam | — |
+| 2025 | CSSS GameJam | — |
 | 2025 | CSSS Fallhacks | [F1 Stock Match](https://f1stocks.netlify.app/index.html) |
 | 2025 | Stormhacks | [Stormhacks 2025](https://stormhacks-2025-uk0m.onrender.com/) |
 | 2026 | JourneyHacks | [Grey Day](https://greyday.netlify.app/) |
