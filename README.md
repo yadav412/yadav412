@@ -14,7 +14,9 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 💻 Software Systems @SFU  
 🧠 Extended Minor in Psychology @SFU  
 🚀 Co-Founder @Medpack-Technologies (early stage start-up)
-
+<!--
+🖥 Java Developer Co-op @Global Relay 
+-->
 🔭 Prev SWE @Persepolis Technologies (early stage start-up contract)
 
 <a align ="center" href="https://www.linkedin.com/in/yadav-singh-39b687236/">
