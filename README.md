@@ -56,8 +56,12 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
 </p>
+
+
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://nirzak-streak-stats.vercel.app/?user=yadav412&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Here are some ideas to get you started:
 
