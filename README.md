@@ -18,7 +18,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 <!--
 
 -->
-🔭 Prev SWE @Persepolis Technologies (early stage start-up contract)
+🔭 Prev SWE @Persepolis Technologies (early stage start-up contract)  
 🚀 Prev Co-Founder @Medpack-Technologies (early stage start-up)
 
 <a align ="center" href="https://www.linkedin.com/in/yadav-singh-39b687236/">
