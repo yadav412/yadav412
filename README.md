@@ -13,7 +13,9 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 
 💻 Software Systems @SFU  
 🧠 Extended Minor in Psychology @SFU  
-🌐 Co-founder @Portal 
+🌐 Co-founder @Portal  
+
+  [Check out our V0.1 release](https://portal-snowy-nine.vercel.app/)
 
 <!--
 
