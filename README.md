@@ -15,7 +15,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 🧠 Extended Minor in Psychology @SFU  
 🌐 Co-founder @Portal  
 
-  [Check out our V0.1 release](https://portal-snowy-nine.vercel.app/)
+  [Check out our V0. release](https://portal-snowy-nine.vercel.app/)
 
 <!--
 
@@ -51,6 +51,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 | 2026 | JourneyHacks | [Grey Day](https://greyday.netlify.app/) |
 | 2026 | Stormforge | [Stormforge 2026](https://github.com/yadav412/stormforge_2026) |
 | 2026 | Gemini Writing Challenge | [Gemini Challenge](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47) |
+| 2026 | Sillyhacks| [Aura]() |
 ---
 ### Tech Stack  
 <p align="left">
