@@ -63,7 +63,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 </p>
 
 ----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yadav412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
