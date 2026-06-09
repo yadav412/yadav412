@@ -3,6 +3,7 @@
 </p>
 
 <p align ="center"> Hi, I'm Yadav!👋</p>
+<img align ="center" src="https://komarev.com/ghpvc/?username=yadav412&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ---
 ### About me  
