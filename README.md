@@ -61,9 +61,16 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
 
+### Stats
 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadav412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
+</div>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&layout=compact&langs_count=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yadav412&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&mode=weekly)](https://git.io/streak-stats)
+</div>
 <!--
 **yadav412/yadav412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://nirzak-streak-stats.vercel.app/?user=yadav412&theme=dark&hide_border=false)<br/>
