@@ -66,7 +66,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadav412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=15"/>
 </div>
 <div align="center">
 
