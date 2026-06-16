@@ -16,7 +16,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 🧠 Extended Minor in Psychology @SFU  
 🌐 Co-founder @Portal  
 
-  [Check out our V0.1.3 release](https://portal-production-rho.vercel.app/dashboard/hiring-manager)
+  [Check out our V0.2 release](https://portal-production-rho.vercel.app/dashboard/hiring-manager)
 
 <!--
 
@@ -52,15 +52,17 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 | 2026 | JourneyHacks | [Grey Day](https://greyday.netlify.app/) |
 | 2026 | Stormforge | [Stormforge 2026](https://github.com/yadav412/stormforge_2026) |
 | 2026 | Gemini Writing Challenge | [Gemini Challenge](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47) |
-| 2026 | Sillyhacks| [Aura]() |
+| 2026 | Sillyhacks| [Aura](https://github.com/Rubber-Duck-Productions/SillyHacks_2026) |
 ---
 ### Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,rust" />
   <br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postgres" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,terraform" />
+  <br>
+
 
 ### Stats
 
