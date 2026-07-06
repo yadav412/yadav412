@@ -56,7 +56,7 @@ I am familar with ML and ML is familar with me. We nod politely at each other in
 ---
 ### Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,rust" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,rust,kotlin" />
   <br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,postgres" />
   <br>
