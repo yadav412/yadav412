@@ -8,12 +8,13 @@
 ---
 ### About me  
 
-Software Systems @ SFU | Technical Product Management | Full-Stack & Platform Engineering
+### Software Systems @ SFU | Technical Product Management | Full-Stack & Platform Engineering
 Building developer platforms, hiring systems, and AI-powered products. Interested in product strategy, distributed systems, developer experience, and cloud infrastructure.
+
 
 💻 Software Systems @SFU  
 🧠 Extended Minor in Psychology @SFU  
-🌐 Co-founder @Portal  
+🌐 Co-founder @Portal | Technical Project Manager (Engines Team)
 
   [Check out our V0.2 release](https://portal-production-rho.vercel.app/dashboard/hiring-manager)
 
