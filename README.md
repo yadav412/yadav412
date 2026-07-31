@@ -15,6 +15,8 @@ Building developer platforms, hiring systems, and AI-powered products. Intereste
 💻 Software Systems @SFU  
 🧠 Extended Minor in Psychology @SFU  
 🌐 Co-founder @Portal | Technical Project Manager (Engines Team)
+<!--
+-->
 
   [Check out our V0.2 release](https://portal-production-rho.vercel.app/dashboard/hiring-manager)
 
@@ -54,6 +56,14 @@ Building developer platforms, hiring systems, and AI-powered products. Intereste
 | 2026 | Gemini Writing Challenge | [Gemini Challenge](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47) |
 | 2026 | Sillyhacks| [Aura](https://github.com/Rubber-Duck-Productions/SillyHacks_2026) |
 ---
+
+<!--
+| 2026 | Shipaton | [solo]() |
+| 2026 | Shipaton | [team]() |
+-->
+
+
+
 ### Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,rust,kotlin" />
