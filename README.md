@@ -8,17 +8,17 @@
 ---
 ### About me  
 
-### Software Systems @ SFU | Technical Product Management | Full-Stack & Platform Engineering
+### Software Systems @ SFU | Technical Product Management | Full-Stack & Product Engineering | HCI and psychology research
 Building developer platforms, hiring systems, and AI-powered products. Interested in product strategy, distributed systems, developer experience, and cloud infrastructure.
 
 
-💻 Software Systems @SFU  
-🧠 Extended Minor in Psychology @SFU  
+💻 Software Systems @SFU (computer systems and HCI focus) 
+🧠 Minor in Psychology @SFU (Neuroscience focus)
 🌐 Co-founder @Portal | Technical Project Manager (Engines Team)
 <!--
 -->
 
-  [Check out our V0.2 release](https://portal-production-rho.vercel.app/dashboard/hiring-manager)
+  [Check out our V2 release](https://tryportal.ca/)
 
 <!--
 
@@ -37,10 +37,7 @@ Building developer platforms, hiring systems, and AI-powered products. Intereste
 </a>
 
 ### What I am currently working on:  
-- ❤️‍🩹 Developing a MVP for sessional therapy agent  
-- 👔 Developing a Hiring Platform for SFU clubs  
-- 🏆 Building fun projects in Hackathons
-- 💬 Curating a place to teach someone CS essentials in one place
+- ❤️‍🩹HCI research @SFU
 ---
 
 
