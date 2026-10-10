@@ -8,7 +8,7 @@
 ---
 ### About me  
 
-### Software Systems @ SFU | Technical Product Management | Full-Stack & Product Engineering | HCI and psychology research
+### Software Systems @ SFU | Full-Stack & Product Engineering | HCI and psychology research
 Building developer platforms, hiring systems, and AI-powered products. Interested in product strategy, distributed systems, developer experience, and cloud infrastructure.
 
 
